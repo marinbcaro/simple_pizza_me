@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">simple_pizza_me</string>
+
+    <string-array name="sortTypes">
+        <item>Sort By:</item>
+        <item>Title (Asc)</item>
+        <item>Location</item>
+    </string-array>
+
+</resources>
